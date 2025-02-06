@@ -1,6 +1,7 @@
 #include "complexe.h"
 #include <iostream>
 
+using namespace com;
 using namespace std;
 
 Complexe::Complexe()
